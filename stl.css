@@ -1,0 +1,76 @@
+body{
+    background-image: url(https://images.ctfassets.net/hrltx12pl8hq/5KiKmVEsCQPMNrbOE6w0Ot/341c573752bf35cb969e21fcd279d3f9/hero-img_copy.jpg?fit=fill&w=800&h=300);
+    background-repeat:  no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+}
+.form-container{
+    border-style: solid;
+    border-color:rgb(13, 189, 86);
+    border-width: 15px;
+    background-image: url(https://dm0qx8t0i9gc9.cloudfront.net/watermarks/image/rDtN98Qoishumwih/light-blue-background_GkNvxFHd_SB_PM.jpg);
+    background-repeat:  no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin-top: 80px;
+    margin-bottom: 50px;
+    padding:30px 20px 30px 20px;        
+}
+form{
+    margin:15px;
+    padding:10px;
+       
+}
+h1{
+    text-align:center;
+    color: rgb(240, 12, 12);
+    font-weight: bold;
+}
+.subtext{
+    font-size: 25px;
+    font-weight: bold;
+    color:rgb(33, 17, 179);
+    text-align:center;
+}
+.input-element label{
+    display: block;
+    font-size: 20px;
+    padding:2px;
+}
+.input-element input{
+    padding: 10px;
+    display:inline;
+    width:100%;
+}
+
+    
+
+.container{
+    font-size: 20px;
+    align-items: center;
+}
+.checkmark{
+    left:9px;
+    top:5px;
+    width:5px;
+    height:10px;
+    border:khaki;
+}
+.btn{
+    margin-top: 10px;
+    padding:10px;
+    background-color:gold;
+    border:lightyellow;
+    color:blue;
+    font-size: 20px;
+    font-weight: bold;
+    width:100%;
+    box-shadow:2px 10px 20px mintcream;
+    overflow: hidden;
+}
+
+
